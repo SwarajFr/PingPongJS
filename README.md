@@ -1,4 +1,4 @@
-#PingPong
+# PingPong
 Play this game on your browser by following the steps below
 
 1. Install VSCode
